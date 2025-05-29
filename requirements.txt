@@ -1,0 +1,4 @@
+pygobject
+rembg[cli,gpu]
+onnxruntime
+onnxruntime-gpu
